@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Reader
+comment0.text=\r\n\ A\ reader\ for\ files\ that\ you\ want\ to\ use\ within\ a\ Greenfoot\ project.\r\n\ \r\n\ @author\ (Mr.Chan)\r\n\ @date\ (April\ 11,\ 2019)\r\n
+comment1.params=filename
+comment1.target=java.util.Scanner\ getScanner(java.lang.String)
+comment1.text=\r\n\ Opens\ a\ text\ file\ inside\ the\ package\ folder\ and\ returns\ a\ scanner\ to\r\n\ read\ it.\ This\ works\ for\ text\ files\ inside\ jar\ files.\r\n\ \r\n\ @param\ name\ The\ name\ of\ the\ text\ file\r\n\ @return\ A\ Scanner\ object\ that\ is\ used\ to\ read\ the\ contents\ of\ the\ text\ \ \ \r\n\ \ file.\r\n
+numComments=2

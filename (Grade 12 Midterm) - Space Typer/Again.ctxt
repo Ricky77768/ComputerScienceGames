@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Again
+comment0.text=\r\n\ A\ button\ that\ appears\ on\ the\ EndScreen\ that\ allows\ the\ player\ to\ restart\ the\ game\r\n\ \r\n\ @author\ (Charlie)\ \r\n\ @date\ (April\ 11,\ 2019)\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

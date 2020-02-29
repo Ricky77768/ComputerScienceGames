@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Planet
+comment0.text=\r\n\ The\ Planet\ is\ the\ objective\ of\ the\ game\ -\ protecting\ it.\ The\ player\ loses\ if\ an\ Obstacle\ touches\ the\ Planet\ \r\n\ \r\n\ @author\ (Jason)\ \r\n\ @date\ (April\ 11,\ 2019)\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

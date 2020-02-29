@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Flashlight
+comment0.text=\r\n\ A\ image\ with\ a\ tranparent\ middle\ section\ to\ restrict\ view\ area\ when\ the\ max\ difficulty\ is\ reached\r\n\ \r\n\ @author\ (Ricky,\ Jason)\ \r\n\ @date\ (April\ 11,\ 2019)\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

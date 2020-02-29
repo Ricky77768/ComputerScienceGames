@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=StartScreen
+comment0.text=\r\n\ The\ screen\ that\ is\ presented\ to\ the\ user\ when\ started.\ Gives\ instructions\ on\ how\ to\ start\ the\ game\r\n\ \r\n\ @author\ (Jason)\ \r\n\ @date\ (April\ 11,\ 2019)\r\n
+comment1.params=
+comment1.target=StartScreen()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

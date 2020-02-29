@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ship
+comment0.text=\r\n\ The\ Ship\ "shoots"\ a\ Bullet\ to\ destroy\ a\ Obstacle.\ It\ will\ move\ to\ the\ Y-Pos\ of\ target\ Obstacle\ when\ shooting\r\n\ \r\n\ @author\ (Charlie)\ \r\n\ @date\ (April\ 11,\ 2019)\r\n
+comment1.params=
+comment1.target=Ship()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

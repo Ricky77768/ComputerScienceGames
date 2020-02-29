@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ The\ world\ where\ the\ game\ is\ started\ in.\ It\ has\ many\ field\ variables\ that\ dictate\ how\ difficult\ the\ \r\n\ game\ is.\ It\ has\ a\ Queue\ of\ Obstacle\ which\ is\ refilled\ as\ difficulty\ goes\ up.\ It\ will\ dequeue\ Obstacle\r\n\ that\ the\ player\ has\ to\ shoot.\ It\ contains\ an\ ArrayList\ of\ String\ which\ will\ be\ randomly\ selected\ to\r\n\ type.\ It\ also\ has\ a\ few\ helper\ methods\ for\ Actors\ to\ add/update\ object\ straight\ from\ their\ respective\ \r\n\ classes.\r\n\ \r\n\ @author\ (Ricky,\ Charlie,\ Jason)\ \r\n\ @date\ (April\ 11,\ 2019)\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ enableFlashlight()
+comment4.params=q\ amount
+comment4.target=Queue\ refreshQueue(Queue,\ int)
+comment5.params=
+comment5.target=java.util.ArrayList\ getWords()
+comment6.params=text\ x\ y
+comment6.target=void\ addLabel(Label,\ int,\ int)
+comment7.params=text\ x\ y
+comment7.target=void\ updateLabel(Label,\ int,\ int)
+comment8.params=text\ x\ y
+comment8.target=void\ addLabel(LabelT,\ int,\ int)
+comment9.params=text\ x\ y
+comment9.target=void\ updateLabel(LabelT,\ int,\ int)
+numComments=10

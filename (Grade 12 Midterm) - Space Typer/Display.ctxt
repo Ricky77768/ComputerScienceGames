@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Display
+comment0.text=\r\n\ This\ is\ where\ the\ word\ will\ be\ typed,\ displayed,\ and\ evaluated.\ It\ contains\ a\ HashMap\ with\ letters\r\n\ and\ their\ respective\ values.\ The\ scoring\ of\ a\ word\ depends\ on\ the\ total\ letter\ values\ of\ each\r\n\ individual\ letter\ in\ a\ word.\ When\ the\ word\ typed\ matches\ a\ Obstacle,\ a\ Bullet\ will\ be\ spawned\ to\ \r\n\ destroy\ it,\ the\ Ship\ will\ move\ to\ the\ Obstacle,\ and\ score\ will\ be\ calculated\ and\ added.\r\n\ \r\n\ @author\ (Ricky,\ Jason,\ Charlie)\ \r\n\ @date\ (April\ 11,\ 2019)\r\n
+comment1.params=
+comment1.target=Display()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=input
+comment3.target=boolean\ isLetter(java.lang.String)
+comment4.params=input\ ship
+comment4.target=void\ checkWord(java.lang.String,\ Ship)
+comment5.params=word\ values
+comment5.target=int\ calculateScore(java.lang.String,\ java.util.HashMap)
+comment6.params=
+comment6.target=int\ getCleared()
+comment7.params=
+comment7.target=int\ getScore()
+comment8.params=input
+comment8.target=void\ setCleared(int)
+numComments=9

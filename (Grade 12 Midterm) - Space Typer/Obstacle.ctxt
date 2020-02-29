@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Obstacle
+comment0.text=\r\n\ It\ will\ constantly\ move\ to\ the\ left\ until\ it\ hits\ the\ Shield\ or\ thPlanet.\r\n\ \r\n\ @author\ (Ricky)\ \r\n\ @version\ (April\ 11,\ 2019)\r\n
+comment1.params=min\ max
+comment1.target=Obstacle(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ removeLabel()
+comment4.params=
+comment4.target=java.lang.String\ getValue()
+comment5.params=
+comment5.target=void\ explode()
+numComments=6

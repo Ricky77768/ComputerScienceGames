@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Shield
+comment0.text=\r\n\ A\ protection\ layer\ for\ the\ Planet.\ It\ removes\ all\ Obstacle\ on\ screen\ if\ one\ touches\ it.\ It\ has\ 2\ charges.\r\n\ Once\ all\ 2\ charges\ are\ used,\ it\ dissapears.\r\n\ \r\n\ @author\ (Ricky,\ Charlie)\ \r\n\ @date\ (April\ 11,\ 2019)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=world
+comment2.target=void\ clearAllObstacles(MyWorld)
+numComments=3

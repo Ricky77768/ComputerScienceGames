@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\r\n\ The\ bullet\ spawns\ each\ time\ a\ word\ is\ successfully\ typed.\ It\ will\ then\ travel\ to\ that\ specific\ \r\n\ Obstacle\ and\ remove\ it,\ along\ with\ itself,\ from\ the\ World.\r\n\ \r\n\ @author\ (Ricky)\ \r\n\ @date\ (April\ 11,\ 2019)\r\n
+comment1.params=goal
+comment1.target=Bullet(Obstacle)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
