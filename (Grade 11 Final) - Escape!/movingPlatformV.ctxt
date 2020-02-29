@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=movingPlatformV
+comment0.text=\r\n\ Moving\ platforms\ that\ move\ from\ side\ to\ side\ at\ a\ fixed\ rate,\ it\ will\ go\ in\ the\ opposite\ direction\ once\ they\ hit\ their\ limit\r\n\ \r\n\ @author\ (Ricky\ Lu)\ \r\n\ @date\ (Jan.\ 18th)\r\n
+comment1.params=highest\ lowest\ theSpeed\ isUp
+comment1.target=movingPlatformV(int,\ int,\ int,\ boolean)
+comment2.params=
+comment2.target=int\ getMaxY()
+comment3.params=
+comment3.target=int\ getMinY()
+comment4.params=
+comment4.target=int\ getSpeed()
+comment5.params=
+comment5.target=boolean\ getGoingUp()
+comment6.params=
+comment6.target=void\ act()
+numComments=7

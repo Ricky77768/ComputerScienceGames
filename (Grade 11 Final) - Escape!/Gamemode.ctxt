@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Gamemode
+comment1.params=
+comment1.target=Gamemode()
+comment2.params=
+comment2.target=boolean\ getIsPractice()
+comment3.params=
+comment3.target=void\ switchMode()
+comment4.params=
+comment4.target=void\ act()
+numComments=5

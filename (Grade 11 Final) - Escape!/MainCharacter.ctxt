@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MainCharacter
+comment0.text=\r\n\ The\ main\ character\ that\ the\ player\ controls\r\n\ \r\n\ @author\ (Ricky\ Lu)\ \r\n\ @date\ (Jan.\ 18th)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ jumpSwapSwitch()
+comment3.params=
+comment3.target=void\ clearWorld()
+numComments=4

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EndScreen
+comment0.text=\r\n\ A\ Screen\ that\ shows\ up\ if\ the\ player\ reaches\ the\ end,\ and\ will\ recieve\ a\ score\ and\ a\ rank\r\n\ \r\n\ @author\ (Ricky\ Lu)\ \r\n\ @date\ (Jan.18th)\r\n
+comment1.params=timeRemaining\ deathCount
+comment1.target=EndScreen(int,\ int)
+numComments=2

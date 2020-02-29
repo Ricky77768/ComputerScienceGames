@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CollisionR
+comment0.text=\r\n\ Right\ collision\ of\ a\ block,\ will\ cause\ player\ to\ stop\ moving\ horizontally\ when\ touched\r\n\ \r\n\ @author\ (Ricky\ Lu)\ \r\n\ @date\ (Jan.\ 18th)\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

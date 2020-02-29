@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TitleScreen
+comment0.text=\r\n\ This\ world\ is\ the\ first\ world\ that\ players\ will\ see,\ acts\ like\ an\ introdcution\r\n\ \r\n\ @author\ (Ricky\ Lu)\ \r\n\ @date\ (Jan.18th)\r\n
+comment1.params=
+comment1.target=TitleScreen()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

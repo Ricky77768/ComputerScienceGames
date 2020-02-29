@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CollisionT
+comment0.text=\r\n\ Top\ collision\ of\ a\ block,\ will\ cause\ player\ stand\ on\ it\ and\ not\ fall\ through\ when\ touched\r\n\ \r\n\ @author\ (Ricky\ Lu)\ \r\n\ @date\ (Jan.\ 18th)\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

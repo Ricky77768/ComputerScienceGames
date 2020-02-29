@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=JumpRing
+comment0.text=\r\n\ Allows\ the\ player\ to\ jump\ again\ when\ within\ its\ hitbox\r\n\ \r\n\ @author\ (Ricky\ Lu)\ \r\n\ @date\ (Jan.\ 18th)\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

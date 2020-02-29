@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Bouncer
+comment0.text=\r\n\ This\ bounces\ the\ player\ really\ high\ when\ touched\r\n\ \r\n\ @author\ (Ricky\ Lu)\ \r\n\ @date\ (Jan.\ 18th)\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

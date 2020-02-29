@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CollisionB
+comment0.text=\r\n\ Bottom\ collision\ of\ a\ block,\ will\ cause\ player\ to\ stop\ going\ up\ when\ touched\r\n\ \r\n\ @author\ (Ricky\ Lu)\ \r\n\ @date\ (Jan.\ 18th)\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2
