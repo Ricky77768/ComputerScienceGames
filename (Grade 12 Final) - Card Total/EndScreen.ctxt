@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EndScreen
+comment0.text=\r\n\ The\ screen\ that\ will\ show\ up\ and\ display\ the\ user's\ score,\ as\ well\ as\ prompting\ the\ user\ to\ play\ again\r\n\ with\ a\ button\ that\ restarts\ the\ game.\r\n\ \r\n\ @author\ (Jason)\ \r\n\ @date\ (June\ 9,\ 2019)\r\n
+comment1.params=score
+comment1.target=EndScreen(int)
+numComments=2

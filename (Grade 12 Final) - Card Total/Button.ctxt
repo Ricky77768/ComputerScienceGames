@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ This\ class\ contains\ all\ the\ Button\ functions.\ It\ was\ originally\ seperate\ classes.\ However,\ it\ was\r\n\ cluttering\ so\ we\ decided\ to\ compile\ all\ the\ buttons\ into\ one\ class.\r\n\ \r\n\ @author\ (Ricky,\ Jason,\ Charlie)\ \r\n\ @version\ (June\ 9,\ 2019)\r\n
+comment1.params=theFunction
+comment1.target=Button(java.lang.String)
+comment2.params=theFunction\ theTimer
+comment2.target=Button(java.lang.String,\ SimpleTimer)
+comment2.text=\r\n\ Special\ Constructor\ (For\ "Submit"\ and\ "Ready")\ that\ requires\ a\ SimpleTimer\ reference\ to\ be\ passed\ \r\n\ on\ to\ keep\ track\ of\ time\ taken\ for\ the\ player\ to\ complete\ a\ round.\r\n
+comment3.params=
+comment3.target=void\ loadImages()
+comment4.params=
+comment4.target=void\ act()
+numComments=5

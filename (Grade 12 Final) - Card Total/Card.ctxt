@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ This\ is\ the\ class\ for\ Card\ behaviors.\ It\ has\ various\ functions\ that\ changes\ the\ state\ of\ the\ card\r\n\ \r\n\ @author\ (Ricky,\ Jason)\ \r\n\ @version\ (June\ 9,\ 2019)\r\n
+comment1.params=theValue
+comment1.target=Card(int)
+comment2.params=
+comment2.target=int\ getValue()
+comment3.params=
+comment3.target=void\ changeSelected()
+comment4.params=bool
+comment4.target=void\ changeInteract(boolean)
+comment5.params=
+comment5.target=void\ changeFlipped()
+comment6.params=
+comment6.target=void\ removeLabel()
+comment7.params=
+comment7.target=void\ act()
+comment7.text=\r\n\ Act\ -\ do\ whatever\ the\ Card\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=8

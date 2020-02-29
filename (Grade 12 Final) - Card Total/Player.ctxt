@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ The\ Player\ class\ does\ not\ interact\ with\ other\ Actors,\ but\ runs\ in\ the\ background\ methods\ such\ as\r\n\ choosing\ a\ target\ number\ and\ evaluating\ a\ round.\r\n\ \r\n\ @author\ (Ricky,\ Charlie)\ \r\n\ @version\ (June\ 9,\ 2019)\r\n
+comment1.params=
+comment1.target=Player()
+comment2.params=
+comment2.target=java.util.ArrayList\ getSelected()
+comment3.params=
+comment3.target=int\ getScore()
+comment4.params=world
+comment4.target=void\ chooseTarget(MyWorld)
+comment5.params=world\ timeTaken
+comment5.target=void\ evaluate(MyWorld,\ int)
+comment6.params=array\ left\ right\ sum\ currentSums
+comment6.target=void\ findSums(int[],\ int,\ int,\ int,\ java.util.ArrayList)
+comment6.text=\r\n\ Code\ taken\ and\ modified\ from\ https\://www.geeksforgeeks.org/print-sums-subsets-given-set/\r\n\ Method\ to\ find\ possible\ sums\ of\ all\ combinations\ of\ ints\ from\ an\ array\r\n
+numComments=7

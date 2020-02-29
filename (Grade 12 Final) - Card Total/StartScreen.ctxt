@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StartScreen
+comment0.text=\r\n\ The\ screen\ user\ sees\ when\ the\ game\ starts,\ along\ with\ playing\ the\ background\ music.\r\n\ It\ has\ a\ button\ that\ goes\ to\ the\ Instructions\ screen\r\n\ \r\n\ @author\ (Charlie)\ \r\n\ @version\ (June\ 9)\r\n
+comment1.params=
+comment1.target=StartScreen()
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=3
